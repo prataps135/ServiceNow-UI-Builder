@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="Safety WS">a146f468288032107f44afef3a701187</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:16:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>af763c68288032107f44afef3a7011ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_update_name>sys_ux_page_property_af763c68288032107f44afef3a7011ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:16:11</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1226914_servic_0.a146f468288032107f44afef3a701187.root.global.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=af763c68288032107f44afef3a7011ae"/>
+</record_update>

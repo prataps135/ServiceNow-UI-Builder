@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="Safety WS">a146f468288032107f44afef3a701187</page>
+        <required_translations>[ {
+  "message" : "Home Page",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:16:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bf767c68288032107f44afef3a70118f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_update_name>sys_ux_page_property_bf767c68288032107f44afef3a70118f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:32:42</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1226914_servic_0.a146f468288032107f44afef3a701187.root.global.chrome_toolbar</unique_name>
+        <value>[
+    {
+        "id": "safety-landing-page",
+        "label": {
+            "translatable": true,
+            "message": "Home Page"
+        },
+        "icon": "home-outline",
+        "routeInfo": {
+            "route": "safety-landing-page"
+        },
+        "group": "top",
+        "order": 100,
+        "badge": {},
+        "presence": {},
+        "availability": {},
+        "viewportInfo": {}
+    }
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=bf767c68288032107f44afef3a70118f"/>
+</record_update>
