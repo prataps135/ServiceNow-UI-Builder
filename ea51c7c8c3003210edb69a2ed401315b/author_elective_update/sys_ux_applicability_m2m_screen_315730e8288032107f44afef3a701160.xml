@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="DELETE">
+        <active>true</active>
+        <applicability display_value="Public">60ddcc15f4661110de93db46df40416f</applicability>
+        <order>0</order>
+        <screen display_value="Default">755730e8288032107f44afef3a701158</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:19:53</sys_created_on>
+        <sys_id>315730e8288032107f44afef3a701160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_315730e8288032107f44afef3a701160</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:19:53</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</application>
+        <file_path/>
+        <instance_id>bd4bb2f7477fa290068d21b2846d435a</instance_id>
+        <instance_name>nowlearning-nlinst03264131-7rjhk-0001</instance_name>
+        <name>sys_ux_applicability_m2m_screen_315730e8288032107f44afef3a701160</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen"><sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Public">60ddcc15f4661110de93db46df40416f</applicability><order>0</order><screen display_value="Default">755730e8288032107f44afef3a701158</screen><sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-14 10:19:53</sys_created_on><sys_id>315730e8288032107f44afef3a701160</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package><sys_policy/><sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope><sys_update_name>sys_ux_applicability_m2m_screen_315730e8288032107f44afef3a701160</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-14 10:19:53</sys_updated_on></sys_ux_applicability_m2m_screen></record_update>]]></payload>
+        <payload_hash>131627331</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0965f8e4288032107f44afef3a70114e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:19:53</sys_created_on>
+        <sys_id>fd5730e8288032107f44afef3a701162</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19947bd033d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:19:53</sys_updated_on>
+        <type>Screen Applicability</type>
+        <update_guid>f15730e895803210cf1e049132d8b862</update_guid>
+        <update_guid_history>f15730e895803210cf1e049132d8b862:131627331</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:20:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_screen">sys_ux_applicability_m2m_screen</sys_db_object>
+        <sys_id>7cd544f064334c26984a0cb5f6d4d0c1</sys_id>
+        <sys_metadata>315730e8288032107f44afef3a701160</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_scope_delete display_value="">602c32cf86a140f48b37f1ec84d30271</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_screen_315730e8288032107f44afef3a701160</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_screen_315730e8288032107f44afef3a701160">fd5730e8288032107f44afef3a701162</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:20:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

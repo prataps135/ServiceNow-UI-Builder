@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Safety WS">1946f468288032107f44afef3a701183</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Safety Record Page</name>
+        <optional_parameters>listId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>safety-record-page</route_type>
+        <screen_type display_value="Safety Record Page">672049a428c032107f44afef3a701160</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:58:30</sys_created_on>
+        <sys_id>632049a428c032107f44afef3a701163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Record Page</sys_name>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_update_name>sys_ux_app_route_632049a428c032107f44afef3a701163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:58:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=632049a428c032107f44afef3a701163"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</application>
+        <file_path/>
+        <instance_id>bd4bb2f7477fa290068d21b2846d435a</instance_id>
+        <instance_name>nowlearning-nlinst03264131-7rjhk-0001</instance_name>
+        <name>sys_ux_app_route_632049a428c032107f44afef3a701163</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Safety WS">1946f468288032107f44afef3a701183</app_config><description/><extension_point/><fields/><icon/><name>Safety Record Page</name><optional_parameters>listId</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>safety-record-page</route_type><screen_type display_value="Safety Record Page">672049a428c032107f44afef3a701160</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-14 10:58:30</sys_created_on><sys_id>632049a428c032107f44afef3a701163</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety Record Page</sys_name><sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package><sys_policy/><sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope><sys_update_name>sys_ux_app_route_632049a428c032107f44afef3a701163</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-14 10:58:30</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=632049a428c032107f44afef3a701163"/></record_update>]]></payload>
+        <payload_hash>-848076532</payload_hash>
+        <record_name>Safety Record Page</record_name>
+        <reverted_from/>
+        <source>0965f8e4288032107f44afef3a70114e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:58:30</sys_created_on>
+        <sys_id>a7204da428c032107f44afef3a7011d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19947e05eeb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:58:30</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>6f2049a4c9c032108e44c4384fa14064</update_guid>
+        <update_guid_history>6f2049a4c9c032108e44c4384fa14064:-848076532</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 11:00:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>22dad6e7f34d43149a697ed8a09bfa10</sys_id>
+        <sys_metadata>632049a428c032107f44afef3a701163</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Record Page</sys_name>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_scope_delete display_value="">602c32cf86a140f48b37f1ec84d30271</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_632049a428c032107f44afef3a701163</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_632049a428c032107f44afef3a701163">a7204da428c032107f44afef3a7011d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 11:00:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

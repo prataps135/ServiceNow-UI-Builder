@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "table": "task",
+    "sysId": "4415457883e522107f44216ebeda1e6e",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTab": ""
+}</macroponent_config>
+        <screen display_value="Default">137045e428c032107f44afef3a7011e1</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 10:59:51</sys_created_on>
+        <sys_id>9f7045e428c032107f44afef3a7011f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ServiceNow UI Builder" source="x_1226914_servic_0">ea51c7c8c3003210edb69a2ed401315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow UI Builder">ea51c7c8c3003210edb69a2ed401315b</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_9f7045e428c032107f44afef3a7011f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 10:59:51</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
